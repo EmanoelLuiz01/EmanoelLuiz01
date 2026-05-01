@@ -3,7 +3,6 @@
 💻 Desenvolvedor Web | 🔒 Interesse em Segurança da Informação | 🐧 Usuário Linux (Zorin OS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-silva-3b52b9277)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanoelLuiz01)
 
 ---
 
@@ -27,7 +26,6 @@ Sou estudante de tecnologia com foco em desenvolvimento web. Tenho interesse em 
 
 ### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-Zorin_OS-0CC1F3?style=for-the-badge&logo=linux&logoColor=white)
@@ -47,7 +45,7 @@ Sou estudante de tecnologia com foco em desenvolvimento web. Tenho interesse em 
 
 - ✅ **Validação e Sanitização de Inputs** — Proteção contra SQL Injection e XSS  
 - ✅ **Autenticação Segura** — Hash de senhas  
-- ✅ **HTTPS/SSL/TLS** — Comunicação criptografada  
+  
 
 ---
 
